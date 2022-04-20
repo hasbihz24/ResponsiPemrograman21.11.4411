@@ -1,0 +1,8 @@
+C:\Pemrograman\ResponsiPemrograman21.11.4411\ResponsiPemrograman21.11.4411\bin\Debug\ResponsiPemrograman21.11.4411.exe.config
+C:\Pemrograman\ResponsiPemrograman21.11.4411\ResponsiPemrograman21.11.4411\bin\Debug\ResponsiPemrograman21.11.4411.exe
+C:\Pemrograman\ResponsiPemrograman21.11.4411\ResponsiPemrograman21.11.4411\bin\Debug\ResponsiPemrograman21.11.4411.pdb
+C:\Pemrograman\ResponsiPemrograman21.11.4411\ResponsiPemrograman21.11.4411\obj\Debug\ResponsiPemrograman21.11.4411.csproj.AssemblyReference.cache
+C:\Pemrograman\ResponsiPemrograman21.11.4411\ResponsiPemrograman21.11.4411\obj\Debug\ResponsiPemrograman21.11.4411.csproj.SuggestedBindingRedirects.cache
+C:\Pemrograman\ResponsiPemrograman21.11.4411\ResponsiPemrograman21.11.4411\obj\Debug\ResponsiPemrograman21.11.4411.csproj.CoreCompileInputs.cache
+C:\Pemrograman\ResponsiPemrograman21.11.4411\ResponsiPemrograman21.11.4411\obj\Debug\ResponsiPemrograman21.11.4411.exe
+C:\Pemrograman\ResponsiPemrograman21.11.4411\ResponsiPemrograman21.11.4411\obj\Debug\ResponsiPemrograman21.11.4411.pdb
